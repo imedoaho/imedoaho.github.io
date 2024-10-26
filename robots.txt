@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imedoaho.github.io/sitemap_index.imedoaho
